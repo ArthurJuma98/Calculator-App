@@ -37,9 +37,6 @@ This is a simple calculator web application implemented in HTML, CSS, and JavaSc
 </body>
 </html>
 
-
-# JavaScript Calculator
-
 This is a basic calculator implemented in JavaScript, HTML, and CSS. It allows users to perform simple arithmetic operations.
 
 ## Features
